@@ -1,0 +1,40 @@
+body {
+    color: rgb(12, 12, 36);
+}
+
+
+.title {
+    color: blue;
+    size: 4px;
+    text-align: center;
+}
+
+h2 {
+    color: green;
+    size: 4px;
+    text-align: center;
+    font-style: oblique;
+    text-decoration: underline burlywood;
+}
+
+li {
+    margin: 0;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(238, 189, 189);
+    color: rgb(114, 41, 8);
+    list-style: none;
+    height: 50px;
+    padding: 10px;
+    text-align: justify;
+
+}
+
+.enlaces {
+    color: brown;
+    font-size: 15px;
+}
+
+.enlaces a:hover{
+    color: coral;
+}
